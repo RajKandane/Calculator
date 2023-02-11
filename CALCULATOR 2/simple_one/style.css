@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    background-color: rgb(127, 255, 212,0.3);
+    font-size: 20px;
+}
+.container-1 b{
+    font-size: 26px;
+}
+.num button{
+    box-sizing: 20px;
+}
